@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">tweet</string>
+    <string name="tweat">خطوات التسجيل في #معسكر_طويق_1000 عن بُعد للمسارات البرمجية المتاحة
+التسجيل عبر رابط منصة سطر التعليمية: http://satr.codes
+</string>
+    <string name="translate">ترجمة التويته</string>
+    <string name="retweet">١١ إعادة تغريد</string>
+    <string name="like1">٤٠إعجابًا</string>
+</resources>
